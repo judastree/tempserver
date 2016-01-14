@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "description": "Start your server everywhere.",
+  "main": "tempserver.js",
+  "dependencies": {
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "judastree",
+  "homepage": "http://judastree.cn",
+  "engines" : {
+    "node" : "0.12.x"
+  }
+}
